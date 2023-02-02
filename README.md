@@ -1,4 +1,4 @@
-# Here I will collect solutions to problems from tests for an internship (or work)
+# Here I will collect my ways of solving task from tests for internship (or work)
 
 ## **Task 1: Ksyusha and paint letters**
 Ksyusha recently got a job at Tinkoff. As the first task, she was assigned to choose
