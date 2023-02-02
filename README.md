@@ -24,7 +24,9 @@ In a single line, print a number - the number of ugly words in the colored depar
 ### **Example**
 #### **Input**
 7
+
 Tinkoff
+
 BYBYBYB
 #### **Output**
 0
