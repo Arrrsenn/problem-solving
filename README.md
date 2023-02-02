@@ -1,4 +1,4 @@
-#Here I will collect solutions to problems from tests for an internship (or work)
+#Here I will collect solutions to problems from tests for an internship (or work)#
 
 ##**Task 1: Ksyusha and letter coloring**
 
