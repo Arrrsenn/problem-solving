@@ -22,7 +22,9 @@ bi ; = B, then the i-th letter should be painted black.
 ### **Output data format**
 In a single line, print a number - the number of ugly words in the colored department name.
 ### **Example**
-#### **Input**    **Output**
-7                     0
+#### **Input**
+7
 Tinkoff
 BYBYBYB
+#### **Output**
+0
