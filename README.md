@@ -40,3 +40,8 @@ In a single line, a natural number n (2 < n < 10^9) is entered - the number n th
 ### **Output data format** 
 Print two numbers a and b separated by a space - the desired pair with the minimum NOC.
 If there are several suitable answers, output any one.
+### **Example**
+#### **Input**
+3
+#### **Output**
+1 2
