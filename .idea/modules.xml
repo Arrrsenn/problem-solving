@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Task1/Task1.iml" filepath="$PROJECT_DIR$/Task1/Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task2/Task2.iml" filepath="$PROJECT_DIR$/Task2/Task2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/task-solving.iml" filepath="$PROJECT_DIR$/.idea/task-solving.iml" />
     </modules>
   </component>
