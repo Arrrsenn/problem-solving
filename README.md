@@ -31,7 +31,7 @@ BYBYBYB
 #### **Output**
 0
 
-## **Task 2: Ksyusha and paint letters**
+## **Task 2: Mathematical lottery**
 For a new marketing campaign, Ksyusha came up with the idea of holding a mathematical lottery. She
 guessed a natural number N and printed on the tickets pairs of positive numbers a, b, such that
 a - b = n. The lottery winners will be considered the participant who received a ticket with the minimum smallest common multiple (NOC) of the numbers a and B. Ksyusha wants to understand in advance which suitable numbers a and B can be chosen so that their NOC is the minimum possible. Will you help her?
