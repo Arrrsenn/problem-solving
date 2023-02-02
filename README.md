@@ -1,7 +1,6 @@
 # Here I will collect solutions to problems from tests for an internship (or work)
 
-## **Task 1: Ksyusha and letter coloring**
-
+## **Task 1: Ksyusha and paint letters**
 Ksyusha recently got a job at Tinkoff. As the first task, she was assigned to choose
 the colors for the name of the new department. Ksyusha has already decided that she will paint it in two colors - yellow and
 black, it remains only to paint.
@@ -12,7 +11,6 @@ the most beautiful. A word is considered ugly if it has adjacent letters painted
 the same color.
 Ksyusha wants to find out how many words in the name of the department will turn out to be ugly if you color them in
 accordance with her idea. Please help her count.
-
 ### **Input data format**
 In the first line, enter the number n (1 <= n <= 100) - the number of letters in the department name.
 In the second line, the name itself is entered - the string s (1 <= s <= 100), consisting of Latin letters
@@ -23,3 +21,8 @@ the name. If bi = Y, then the i-th letter of the name should be painted yellow; 
 bi ; = B, then the i-th letter should be painted black.
 ### **Output data format**
 In a single line, print a number - the number of ugly words in the colored department name.
+### **Example**
+#### **Input**    **Output**
+7                     0
+Tinkoff
+BYBYBYB
