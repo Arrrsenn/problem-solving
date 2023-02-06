@@ -45,3 +45,44 @@ If there are several suitable answers, output any one.
 3
 #### **Output**
 1 2
+
+## **Task 3: Read command**
+The "countSet" var for specifying the initial number of sets
+List<Integer> arr - for storing sets
+The "request" var - number of requests
+StringBuilder sbr - for storing "YES" and "NO" outputs
+Command:
+0 X - "0" - Сhecks if the set X is in the list
+1 X - "1" - Increases all values in the list by X
+2 X - "2" - Adds the value of X to the list, provided that it is missing
+3 X - "3" - Removes the value of X from the list
+
+### **Output data format** 
+When executing the "0" command, you need to output:
+-if the value of X is in the list - "YES";
+-if the X value is not in the list - "NO";
+### **Example**
+#### **Input**
+2
+
+2 7
+
+5
+
+0 2
+
+0 7
+
+1 3
+
+0 2
+
+0 7
+#### **Output**
+YES
+
+YES
+
+NO
+
+NO
