@@ -96,7 +96,7 @@ NO
 
 NO
 
-## **Task 4: **
+## **Task 4:**
 
 ### **Input data format**
 
