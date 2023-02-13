@@ -118,3 +118,13 @@ Print one integer - the minimum number of telescopes that need to be switched to
 
 #### **Output**
 2
+
+## **Task 4. Telescopes**
+
+### **Input data format**
+
+### **Output data format**
+### **Example**
+#### **Input**
+
+#### **Output**
