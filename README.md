@@ -1,6 +1,6 @@
 # Here I will collect my ways of solving task from tests for internship (or work)
 
-## **Task 1: Ksyusha and paint letters**
+## **Task 1. Ksyusha and paint letters**
 Ksyusha recently got a job at Tinkoff. As the first task, she was assigned to choose
 the colors for the name of the new department. Ksyusha has already decided that she will paint it in two colors - yellow and
 black, it remains only to paint.
@@ -31,7 +31,7 @@ BYBYBYB
 #### **Output**
 0
 
-## **Task 2: Mathematical lottery**
+## **Task 2. Mathematical lottery**
 For a new marketing campaign, Ksyusha came up with the idea of holding a mathematical lottery. She
 guessed a natural number N and printed on the tickets pairs of positive numbers a, b, such that
 a - b = n. The lottery winners will be considered the participant who received a ticket with the minimum smallest common multiple (NOC) of the numbers a and B. Ksyusha wants to understand in advance which suitable numbers a and B can be chosen so that their NOC is the minimum possible. Will you help her?
@@ -46,7 +46,7 @@ If there are several suitable answers, output any one.
 #### **Output**
 1 2
 
-## **Task 3: Read command**
+## **Task 3. Read command**
 The "countSet" var for specifying the initial number of sets
 
 List<Integer> arr - for storing sets
@@ -96,8 +96,25 @@ NO
 
 NO
 
-## **Task 4:**
-
+## **Task 4. Telescopes**
+Nina works in a research center, whose employees observe the movement of stars. There are n telescopes in the center that can be used to observe the stars. Each of the telescopes can operate in one of the modes. Since the previous series of observations, the telescope with the number "i" has been in the "pi" mode
+For high-quality observation of one star, it is necessary to simultaneously use 2 different telescopes turned on in the same mode. Next night, scientists plan to make observations of "m" stars, and the researchers want to see the "i" star with the help of telescopes a and b;.
+Nina was instructed to switch the minimum number of telescopes to the desired modes in advance so that it would be possible to observe all the "m" stars qualitatively without changing the modes during the next observations. Of course, Nina coped with her task and knows how many telescopes she had to switch. And will you be able to find this number?
 ### **Input data format**
-
+The first line contains three integers n, m, k - the number of telescopes, the number of stars and the number of telescope modes.
+The second line contains n integers separated by spaces p1,...,pn - the modes in which the telescopes from the previous observation remained.
+In each of the following m lines there are two integers ai and bi - the numbers of the telescopes that must be used to observe the star
 ### **Output data format**
+Print one integer - the minimum number of telescopes that need to be switched to another mode to observe m stars
+### **Example**
+#### **Input**
+3 2 3
+
+1 2 3
+
+1 2
+  
+1 3
+
+#### **Output**
+2
