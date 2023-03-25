@@ -1,5 +1,5 @@
 # Here I will collect my ways of solving task from tests for internship (or work)
-
+### **P.S. I don't always add solutions here, some solutions are in the LeetCode profile**
 ## **Task 1. Ksyusha and paint letters**
 Ksyusha recently got a job at Tinkoff. As the first task, she was assigned to choose
 the colors for the name of the new department. Ksyusha has already decided that she will paint it in two colors - yellow and
